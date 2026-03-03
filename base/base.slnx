@@ -3,16 +3,24 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="app01/app01.vcxproj" />
-  <Project Path="app02/app02.vcxproj" />
-  <Project Path="app03/app03.vcxproj" />
-  <Project Path="app04/app04.vcxproj" />
-  <Project Path="app05/app05.vcxproj" />
-  <Project Path="app06/app06.vcxproj" />
-  <Project Path="app07/app07.vcxproj" />
-  <Project Path="app08/app08.vcxproj" />
-  <Project Path="app09/app09.vcxproj" />
-  <Project Path="app10/app10.vcxproj" />
-  <Project Path="app11/app11.vcxproj" />
-  <Project Path="app12/app12.vcxproj" />
+  <Project Path="app07/app07.vcxproj" Id="662550ab-ab93-41f1-8c6e-4860cfe7b31e" />
+  <Project Path="app08/app08.vcxproj" Id="f1ec7d74-b873-4bbe-93ac-43dd34f1b09a" />
+  <Project Path="app09/app09.vcxproj" Id="afed6a54-a8f2-4be2-b62a-59b7eb915f50" />
+  <Project Path="app10/app10.vcxproj" Id="8d7793f1-d0dc-43d9-913d-73e41c148153" />
+  <Project Path="app11/app11.vcxproj" Id="64eaa50c-544f-49a9-978e-4788e29a3cb4" />
+  <Project Path="app12/app12.vcxproj" Id="b9d119bf-42c8-4719-9e7d-984d191bfbad" />
+  <Project Path="array01/array01.vcxproj" Id="59a27b1a-d83f-4b76-99bb-209264f0240d" />
+  <Project Path="class01/class01.vcxproj" Id="c1efaa89-7a43-4b05-88cc-3233608d33d2" />
+  <Project Path="class02/class02.vcxproj" Id="60df0bc3-9b9a-4890-bf86-0e06951b1848" />
+  <Project Path="class03/class03.vcxproj" Id="9eabe542-d353-4d9f-8a30-2246d2454b8f" />
+  <Project Path="class04/class04.vcxproj" Id="eae7cbaf-1add-4997-898a-5161f34e99e2" />
+  <Project Path="init01/init01.vcxproj" Id="17ee075e-aa0e-4729-a77a-1282dacbcd99" />
+  <Project Path="init02/init02.vcxproj" Id="1598d92e-15de-4f5d-879c-cfd153d4cff4" />
+  <Project Path="init03/init03.vcxproj" Id="ca7dd1c7-9ed8-4ffa-ba4a-08cea9d0f08f" />
+  <Project Path="MyClass01/MyClass01.vcxproj" Id="ee89c551-5d55-4269-8429-2a91e4fe0229" />
+  <Project Path="MyClass02/MyClass02.vcxproj" Id="6a25b537-0ef1-48cd-8b3b-0ed989be3303" />
+  <Project Path="ref01/ref01.vcxproj" Id="9b34dcb0-4a63-46b3-bbd7-6e8b744a2e21" />
+  <Project Path="ref02/ref02.vcxproj" Id="d8eb5ff4-bae7-4de2-9752-ce603cdd2b04" />
+  <Project Path="ref03/ref03.vcxproj" Id="cf51cb67-d889-4bcf-89db-78c7428f4b11" />
+  <Project Path="ref04/ref04.vcxproj" Id="b73097d1-fe1d-41fe-b963-ee437029c160" />
 </Solution>
