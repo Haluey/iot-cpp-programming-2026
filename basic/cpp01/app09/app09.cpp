@@ -17,7 +17,7 @@ int main(void) {
 
 	// 2. 포인터변수로 값변경X, num2로는 값변경 가능
 	int num2 = 20;
-	const int* p1 = &num2;	
+	const int* p1 = &num2;
 	cout << *p1 << endl;
 	cout << num2 << endl;
 	//*p1 = 10;		// 가리키고 있는 변수의 값 변경 불가
@@ -25,7 +25,7 @@ int main(void) {
 	int num3 = 22;
 	p1 = &num3;		// 가리키는 변수 즉, 주소값 변경 가능
 	cout << *p1 << endl;
-	
+
 
 	// 3. 포인터변수가 담고있는 주소 변경 불가
 	int num4 = 40;
