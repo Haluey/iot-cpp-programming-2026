@@ -3,12 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="app07/app07.vcxproj" Id="662550ab-ab93-41f1-8c6e-4860cfe7b31e" />
-  <Project Path="app08/app08.vcxproj" Id="f1ec7d74-b873-4bbe-93ac-43dd34f1b09a" />
-  <Project Path="app09/app09.vcxproj" Id="afed6a54-a8f2-4be2-b62a-59b7eb915f50" />
-  <Project Path="app10/app10.vcxproj" Id="8d7793f1-d0dc-43d9-913d-73e41c148153" />
-  <Project Path="app11/app11.vcxproj" Id="64eaa50c-544f-49a9-978e-4788e29a3cb4" />
-  <Project Path="app12/app12.vcxproj" Id="b9d119bf-42c8-4719-9e7d-984d191bfbad" />
   <Project Path="array01/array01.vcxproj" Id="59a27b1a-d83f-4b76-99bb-209264f0240d" />
   <Project Path="class01/class01.vcxproj" Id="c1efaa89-7a43-4b05-88cc-3233608d33d2" />
   <Project Path="class02/class02.vcxproj" Id="60df0bc3-9b9a-4890-bf86-0e06951b1848" />
